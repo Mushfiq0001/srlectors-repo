@@ -1,0 +1,223 @@
+h1:hover{color: orange;
+    background-color: rgb(241, 189, 189);
+
+}
+.uu{
+    font-size: 40px;color: rgb(16, 248, 132);
+}
+li:nth-child(2){
+    color: sandybrown;
+}
+li:last-child {
+    color: blue;
+}
+
+
+body {
+    background-color: rgb(235, 229, 221);
+}
+
+h1{
+    background-color: rgba(188, 235, 177, 0.808);
+    
+}
+
+.classselectors{
+    color: cyan;
+}
+
+#id-selectors{
+    color: hotpink;
+}
+
+p{
+    background-color: rgb(11, 184, 155);
+    align-items: center;
+    text-align: center;
+}
+
+.ooo{
+    color :darkorange;
+}
+
+
+
+
+
+
+h5::after {
+    content: 'Pseudo';
+    color: rgb(20, 255, 98);
+    position: absolute;
+    text-align: center;
+    background-color: grey;
+    font-size: 25px;
+    justify-content: center;
+}
+    h5::before{
+        content: 'pseudo';
+        background-color: rgb(252, 45, 8);
+        color: limegreen;
+        font-size: 30px;
+        pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }pop::before{
+            content: 'pseudo';
+            font-size: 20px;
+            font-style: oblique;
+            color: rgb(250, 232, 71);
+            background-color: linen;
+        
+        }
+    }
+
+
+
+
+
+p::before{
+    content: 'pseudo';
+    background-color: rgb(252, 45, 8);
+    color: limegreen;
+    font-size: 30px;
+}
+
+.goode{
+    color: deeppink;
+    text-align: center;
+}
+#goodass {
+    text-align: center;
+    color: greenyellow;
+    font-size: 50px;
+}
+
+.bad{
+    text-align: center;
+    color: rgba(245, 230, 22, 0.74);
+    font-size: x-large;
+}
+
+#badass{
+    color: indigo;
+    font-size: 60px;
+    text-align: center;
+}
+
+#badass::after{
+    content : 'pseudo';
+    color : red;
+    font-size: 24px;
+
+}
+
+.bad::before{
+    content: 'pseudo';
+    color: lightseagreen;
+    background: mintcream;
+}
+
+#goodass::after{
+    content: 'pseudo';
+    color: navy;
+    background: rgb(104, 168, 168);
+    font-size: 30px
+    ;
+    
+}
+
+/* Specificity : Every selector has its place in the specificity hierarchy. There are four categories which define the specificity level of a selector.
+Inline style
+ID selectors
+Class selectors
+Header selectors */
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
